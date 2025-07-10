@@ -1,0 +1,131 @@
+2025-07-10 13:32:37,098 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\kniti\\OneDrive\\Desktop\\web']
+2025-07-10 13:32:37,099 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:32:37,100 - uvicorn.error - INFO - Started reloader process [5908] using statreload
+2025-07-10 13:32:39,144 - uvicorn.error - ERROR - Error loading ASGI app. Could not import module "all_in_one".
+2025-07-10 13:33:46,536 - uvicorn.error - INFO - Stopping reloader process [5908]
+2025-07-10 13:35:09,406 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\kniti\\OneDrive\\Desktop\\web']
+2025-07-10 13:35:09,407 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:35:09,407 - uvicorn.error - INFO - Started reloader process [21684] using statreload
+2025-07-10 13:35:10,916 - uvicorn.error - ERROR - Error loading ASGI app. Could not import module "all_in_one".
+2025-07-10 13:36:26,761 - uvicorn.error - INFO - Stopping reloader process [21684]
+2025-07-10 13:36:26,764 - uvicorn.error - WARNING - You must pass the application as an import string to enable 'reload' or 'workers'.
+2025-07-10 13:36:47,071 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\kniti\\OneDrive\\Desktop\\web']
+2025-07-10 13:36:47,072 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:36:47,072 - uvicorn.error - INFO - Started reloader process [21528] using statreload
+2025-07-10 13:36:48,329 - uvicorn.error - ERROR - Error loading ASGI app. Could not import module "all_in_one".
+2025-07-10 13:37:32,904 - uvicorn.error - WARNING - StatReload detected file change in 'complete file.py'. Reloading...
+2025-07-10 13:37:34,269 - uvicorn.error - ERROR - Error loading ASGI app. Could not import module "all_in_one".
+2025-07-10 13:37:45,031 - uvicorn.error - WARNING - You must pass the application as an import string to enable 'reload' or 'workers'.
+2025-07-10 13:38:53,394 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\kniti\\OneDrive\\Desktop\\web']
+2025-07-10 13:38:53,395 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:38:53,395 - uvicorn.error - INFO - Started reloader process [9536] using statreload
+2025-07-10 13:38:54,890 - uvicorn.error - ERROR - Error loading ASGI app. Could not import module "all_in_one".
+2025-07-10 13:39:24,702 - uvicorn.error - WARNING - StatReload detected file change in 'complete file.py'. Reloading...
+2025-07-10 13:39:26,132 - uvicorn.error - ERROR - Error loading ASGI app. Could not import module "all_in_one".
+2025-07-10 13:39:29,194 - uvicorn.error - INFO - Stopping reloader process [9536]
+2025-07-10 13:39:29,197 - uvicorn.error - WARNING - You must pass the application as an import string to enable 'reload' or 'workers'.
+2025-07-10 13:39:33,282 - uvicorn.error - WARNING - You must pass the application as an import string to enable 'reload' or 'workers'.
+2025-07-10 13:40:47,690 - uvicorn.error - WARNING - You must pass the application as an import string to enable 'reload' or 'workers'.
+2025-07-10 13:42:06,380 - uvicorn.error - INFO - Started server process [11136]
+2025-07-10 13:42:06,381 - uvicorn.error - INFO - Waiting for application startup.
+2025-07-10 13:42:06,382 - uvicorn.error - INFO - Application startup complete.
+2025-07-10 13:42:06,383 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:43:11,919 - WDM - INFO - ====== WebDriver manager ======
+2025-07-10 13:43:13,331 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:43:14,078 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:43:14,713 - WDM - INFO - There is no [win64] chromedriver "138.0.7204.94" for browser google-chrome "138.0.7204" in cache
+2025-07-10 13:43:14,713 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:43:15,850 - WDM - INFO - WebDriver version 138.0.7204.94 selected
+2025-07-10 13:43:15,855 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-10 13:43:15,855 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-10 13:43:16,695 - WDM - INFO - Driver downloading response is 200
+2025-07-10 13:43:36,494 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:43:38,347 - WDM - INFO - Driver has been saved in cache [C:\Users\kniti\.wdm\drivers\chromedriver\win64\138.0.7204.94]
+2025-07-10 13:43:55,925 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:43:55,926 - cert_validator.validate_certificate - ERROR - Validation error for https://www.udemy.com/certificate/UC-3KC7HHAX: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:43:55,926 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2
+2025-07-10 13:43:55,926 - cert_validator.validate_certificate - ERROR - Validation error for https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:43:55,926 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:43:55,926 - cert_validator.validate_certificate - ERROR - Validation error for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:46:30,889 - uvicorn.error - INFO - Shutting down
+2025-07-10 13:46:31,001 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-07-10 13:46:31,002 - uvicorn.error - INFO - Application shutdown complete.
+2025-07-10 13:46:31,002 - uvicorn.error - INFO - Finished server process [11136]
+2025-07-10 13:46:34,301 - uvicorn.error - INFO - Started server process [18692]
+2025-07-10 13:46:34,302 - uvicorn.error - INFO - Waiting for application startup.
+2025-07-10 13:46:34,302 - uvicorn.error - INFO - Application startup complete.
+2025-07-10 13:46:34,303 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:47:14,584 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:47:14,584 - cert_validator.validate_certificate - ERROR - Validation error for https://www.udemy.com/certificate/UC-3KC7HHAX: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:14,584 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:47:14,584 - cert_validator.validate_certificate - ERROR - Validation error for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:14,585 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2
+2025-07-10 13:47:14,585 - cert_validator.validate_certificate - ERROR - Validation error for https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:20,990 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:47:20,991 - cert_validator.validate_certificate - ERROR - Validation error for https://www.udemy.com/certificate/UC-3KC7HHAX: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:20,992 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:47:20,993 - cert_validator.validate_certificate - ERROR - Validation error for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:20,993 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2
+2025-07-10 13:47:20,993 - cert_validator.validate_certificate - ERROR - Validation error for https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:21,755 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:47:21,755 - cert_validator.validate_certificate - ERROR - Validation error for https://www.udemy.com/certificate/UC-3KC7HHAX: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:21,756 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:47:21,757 - cert_validator.validate_certificate - ERROR - Validation error for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:21,757 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2
+2025-07-10 13:47:21,757 - cert_validator.validate_certificate - ERROR - Validation error for https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:22,484 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:47:22,485 - cert_validator.validate_certificate - ERROR - Validation error for https://www.udemy.com/certificate/UC-3KC7HHAX: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:22,485 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:47:22,485 - cert_validator.validate_certificate - ERROR - Validation error for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:47:22,485 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2
+2025-07-10 13:47:22,485 - cert_validator.validate_certificate - ERROR - Validation error for https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:48:13,104 - uvicorn.error - INFO - Shutting down
+2025-07-10 13:48:13,216 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-07-10 13:48:13,217 - uvicorn.error - INFO - Application shutdown complete.
+2025-07-10 13:48:13,217 - uvicorn.error - INFO - Finished server process [18692]
+2025-07-10 13:48:15,718 - uvicorn.error - INFO - Started server process [8716]
+2025-07-10 13:48:15,720 - uvicorn.error - INFO - Waiting for application startup.
+2025-07-10 13:48:15,720 - uvicorn.error - INFO - Application startup complete.
+2025-07-10 13:48:15,721 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:48:45,645 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:48:45,645 - cert_validator.validate_certificate - ERROR - Validation error for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:48:45,645 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:48:45,645 - cert_validator.validate_certificate - ERROR - Validation error for https://www.udemy.com/certificate/UC-3KC7HHAX: BaseValidator.validate_certificate() takes 2 positional arguments but 3 were given
+2025-07-10 13:53:09,210 - uvicorn.error - INFO - Shutting down
+2025-07-10 13:53:09,321 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-07-10 13:53:09,322 - uvicorn.error - INFO - Application shutdown complete.
+2025-07-10 13:53:09,322 - uvicorn.error - INFO - Finished server process [8716]
+2025-07-10 13:53:11,772 - uvicorn.error - INFO - Started server process [9252]
+2025-07-10 13:53:11,772 - uvicorn.error - INFO - Waiting for application startup.
+2025-07-10 13:53:11,773 - uvicorn.error - INFO - Application startup complete.
+2025-07-10 13:53:11,774 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-10 13:53:51,400 - WDM - INFO - ====== WebDriver manager ======
+2025-07-10 13:53:52,608 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:53:53,616 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:53:54,269 - WDM - INFO - Driver [C:\Users\kniti\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-10 13:54:46,445 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:54:46,445 - CourseraValidator - INFO - Validating certificate: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:54:46,445 - CourseraValidator - INFO - Extracting metadata from Coursera URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-10 13:54:48,199 - CourseraValidator - INFO - Extracted metadata: {'certificate_id': 'JL34FB4CPYY6', 'platform': 'Coursera', 'verification_url': 'https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6', 'name': 'John Doe', 'course': 'Machine Learning', 'issue_date': '2023-06-15', 'expiry_date': None, 'instructor': 'Andrew Ng', 'organization': 'Stanford University'}
+2025-07-10 13:54:48,199 - cert_validator.validate_certificate - INFO - Validation completed for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: Valid
+2025-07-10 13:54:48,199 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:54:48,200 - UdemyValidator - INFO - Validating certificate: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:54:48,200 - UdemyValidator - INFO - Extracting metadata from Udemy URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-10 13:54:48,200 - UdemyValidator - INFO - Attempt 1 of 3
+2025-07-10 13:54:48,200 - WDM - INFO - ====== WebDriver manager ======
+2025-07-10 13:54:49,332 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:54:49,702 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-10 13:54:50,022 - WDM - INFO - Driver [C:\Users\kniti\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-10 13:55:06,561 - UdemyValidator - INFO - Page title: Udemy Course Completion Certificate | Udemy
+2025-07-10 13:55:06,602 - UdemyValidator - INFO - Found description element: This certificate above verifies that Ashlesh Umesh Khajbage successfully completed the course Deep Learning Prerequisites: The Numpy Stack in Python (V2+) on 12/28/2018 as taught by Lazy Programmer Inc., Lazy Programmer Team on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
+2025-07-10 13:55:06,676 - UdemyValidator - INFO - Found certificate description div
+2025-07-10 13:55:06,676 - UdemyValidator - INFO - Found name: Ashlesh Umesh Khajbage
+2025-07-10 13:55:06,677 - UdemyValidator - INFO - Found course: Deep Learning Prerequisites: The Numpy Stack in Python (V2+)
+2025-07-10 13:55:06,677 - UdemyValidator - INFO - Found instructor: Ashlesh Umesh Khajbage
+2025-07-10 13:55:06,678 - UdemyValidator - INFO - Found date: 2018-12-28
+2025-07-10 13:55:08,839 - UdemyValidator - INFO - Extracted metadata: {'certificate_id': 'UC-3KC7HHAX', 'platform': 'Udemy', 'verification_url': 'https://www.udemy.com/certificate/UC-3KC7HHAX', 'name': 'Ashlesh Umesh Khajbage', 'course': 'Deep Learning Prerequisites: The Numpy Stack in Python (V2+)', 'instructor': 'Ashlesh Umesh Khajbage', 'issue_date': '2018-12-28'}
+2025-07-10 13:55:12,921 - cert_validator.validate_certificate - INFO - Validation completed for https://www.udemy.com/certificate/UC-3KC7HHAX: Valid
+2025-07-10 13:58:34,892 - uvicorn.error - INFO - Shutting down
+2025-07-10 13:58:35,001 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-07-10 13:58:35,002 - uvicorn.error - INFO - Application shutdown complete.
+2025-07-10 13:58:35,002 - uvicorn.error - INFO - Finished server process [9252]
