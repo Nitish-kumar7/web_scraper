@@ -129,3 +129,58 @@
 2025-07-10 13:58:35,001 - uvicorn.error - INFO - Waiting for application shutdown.
 2025-07-10 13:58:35,002 - uvicorn.error - INFO - Application shutdown complete.
 2025-07-10 13:58:35,002 - uvicorn.error - INFO - Finished server process [9252]
+2025-07-11 21:59:42,605 - uvicorn.error - INFO - Started server process [22696]
+2025-07-11 21:59:42,606 - uvicorn.error - INFO - Waiting for application startup.
+2025-07-11 21:59:42,607 - uvicorn.error - INFO - Application startup complete.
+2025-07-11 21:59:42,608 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-07-11 22:01:22,665 - WDM - INFO - ====== WebDriver manager ======
+2025-07-11 22:01:24,807 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:01:25,444 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:01:25,973 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:01:27,181 - WDM - INFO - WebDriver version 138.0.7204.94 selected
+2025-07-11 22:01:27,187 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-11 22:01:27,187 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.94/win32/chromedriver-win32.zip
+2025-07-11 22:01:27,881 - WDM - INFO - Driver downloading response is 200
+2025-07-11 22:01:29,837 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:01:31,210 - WDM - INFO - Driver has been saved in cache [C:\Users\kniti\.wdm\drivers\chromedriver\win64\138.0.7204.94]
+2025-07-11 22:01:50,545 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-11 22:01:50,546 - UdemyValidator - INFO - Validating certificate: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-11 22:01:50,546 - UdemyValidator - INFO - Extracting metadata from Udemy URL: https://www.udemy.com/certificate/UC-3KC7HHAX
+2025-07-11 22:01:50,547 - UdemyValidator - INFO - Attempt 1 of 3
+2025-07-11 22:01:50,548 - WDM - INFO - ====== WebDriver manager ======
+2025-07-11 22:01:51,910 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:01:52,440 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:01:52,935 - WDM - INFO - Driver [C:\Users\kniti\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-11 22:02:05,799 - UdemyValidator - INFO - Page title: Udemy Course Completion Certificate | Udemy
+2025-07-11 22:02:05,874 - UdemyValidator - INFO - Found description element: This certificate above verifies that Ashlesh Umesh Khajbage successfully completed the course Deep Learning Prerequisites: The Numpy Stack in Python (V2+) on 12/28/2018 as taught by Lazy Programmer Inc., Lazy Programmer Team on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
+2025-07-11 22:02:05,997 - UdemyValidator - INFO - Found certificate description div
+2025-07-11 22:02:05,997 - UdemyValidator - INFO - Found name: Ashlesh Umesh Khajbage
+2025-07-11 22:02:05,998 - UdemyValidator - INFO - Found course: Deep Learning Prerequisites: The Numpy Stack in Python (V2+)
+2025-07-11 22:02:05,998 - UdemyValidator - INFO - Found instructor: Ashlesh Umesh Khajbage
+2025-07-11 22:02:05,999 - UdemyValidator - INFO - Found date: 2018-12-28
+2025-07-11 22:02:08,206 - UdemyValidator - INFO - Extracted metadata: {'certificate_id': 'UC-3KC7HHAX', 'platform': 'Udemy', 'verification_url': 'https://www.udemy.com/certificate/UC-3KC7HHAX', 'name': 'Ashlesh Umesh Khajbage', 'course': 'Deep Learning Prerequisites: The Numpy Stack in Python (V2+)', 'instructor': 'Ashlesh Umesh Khajbage', 'issue_date': '2018-12-28'}
+2025-07-11 22:02:12,285 - cert_validator.validate_certificate - INFO - Validation completed for https://www.udemy.com/certificate/UC-3KC7HHAX: Valid
+2025-07-11 22:02:12,285 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-11 22:02:12,286 - CourseraValidator - INFO - Validating certificate: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-11 22:02:12,286 - CourseraValidator - INFO - Extracting metadata from Coursera URL: https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6
+2025-07-11 22:02:13,533 - CourseraValidator - INFO - Extracted metadata: {'certificate_id': 'JL34FB4CPYY6', 'platform': 'Coursera', 'verification_url': 'https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6', 'name': 'John Doe', 'course': 'Machine Learning', 'issue_date': '2023-06-15', 'expiry_date': None, 'instructor': 'Andrew Ng', 'organization': 'Stanford University'}
+2025-07-11 22:02:13,534 - cert_validator.validate_certificate - INFO - Validation completed for https://www.coursera.org/account/accomplishments/verify/JL34FB4CPYY6: Valid
+2025-07-11 22:04:33,876 - WDM - INFO - ====== WebDriver manager ======
+2025-07-11 22:04:35,813 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:04:36,535 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-11 22:04:37,446 - WDM - INFO - Driver [C:\Users\kniti\.wdm\drivers\chromedriver\win64\138.0.7204.94\chromedriver-win32/chromedriver.exe] found in cache
+2025-07-11 22:04:59,179 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.credly.com/badges/microsoft-azure-openai-service-skilling-participant
+2025-07-11 22:04:59,179 - cert_validator.validate_certificate - WARNING - Invalid URL pattern: https://www.credly.com/badges/microsoft-azure-openai-service-skilling-participant
+2025-07-11 22:04:59,180 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.linkedin.com/in/abhijeet-singh-40a513258
+2025-07-11 22:04:59,180 - cert_validator.validate_certificate - WARNING - Invalid URL format: https://www.linkedin.com/in/abhijeet-singh-40a513258
+2025-07-11 22:04:59,181 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.udemy.com/certificate/UC-6b8e8e8e8e8e
+2025-07-11 22:04:59,181 - cert_validator.validate_certificate - WARNING - Invalid URL pattern: https://www.udemy.com/certificate/UC-6b8e8e8e8e8e
+2025-07-11 22:04:59,181 - cert_validator.validate_certificate - INFO - Starting validation for URL: https://www.coursera.org/account/accomplishments/verify/4V4JWRK3UYZM
+2025-07-11 22:04:59,182 - CourseraValidator - INFO - Validating certificate: https://www.coursera.org/account/accomplishments/verify/4V4JWRK3UYZM
+2025-07-11 22:04:59,183 - CourseraValidator - INFO - Extracting metadata from Coursera URL: https://www.coursera.org/account/accomplishments/verify/4V4JWRK3UYZM
+2025-07-11 22:05:00,314 - CourseraValidator - INFO - Extracted metadata: {'certificate_id': '4V4JWRK3UYZM', 'platform': 'Coursera', 'verification_url': 'https://www.coursera.org/account/accomplishments/verify/4V4JWRK3UYZM', 'name': 'John Doe', 'course': 'Machine Learning', 'issue_date': '2023-06-15', 'expiry_date': None, 'instructor': 'Andrew Ng', 'organization': 'Stanford University'}
+2025-07-11 22:05:00,315 - cert_validator.validate_certificate - INFO - Validation completed for https://www.coursera.org/account/accomplishments/verify/4V4JWRK3UYZM: Valid
+2025-07-11 22:11:14,322 - uvicorn.error - INFO - Shutting down
+2025-07-11 22:11:14,430 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-07-11 22:11:14,433 - uvicorn.error - INFO - Application shutdown complete.
+2025-07-11 22:11:14,434 - uvicorn.error - INFO - Finished server process [22696]
