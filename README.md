@@ -61,8 +61,22 @@ npm start
 
 - LinkedIn scraping requires a free [Apify](https://apify.com) account and API key
 - GitHub API token is optional but recommended for heavy use
-- No screenshots are created or stored
 
 ---
 
-For advanced configuration, troubleshooting, or contributing, see the full documentation or open an issue. 
+## Sample DOCX Content
+
+You can use a simple DOCX file like this for testing:
+
+```
+Contact Information:
+GitHub: https://github.com/Nitish-kumar7
+Portfolio: https://portfolio-website-abdullah-jamess.vercel.app/
+Instagram: @nitish5300
+Udemy: https://www.udemy.com/certificate/UC-ACJJXULH/
+Credly:  https://www.credly.com/badges/a90a689b-0e9b-480d-81a0-a12f717d3de2
+Coursera: https://www.coursera.org/account/accomplishments/verify/4V4JWRK3UYZM
+```
+
+Just copy this text into a DOCX file and upload it in the app to see how extraction and validation works.
+
